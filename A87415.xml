@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull Nevves from the treaty containing the Kings Majesties remonstrance and declaration at Newport in the Isle of Wight, on Sattnrday [sic] last, concerning the citizens of London, who petitioned against the treaty. And His propositions to all His Majesties subjectes within the said city, concerning the sense and resolution of His Majesty touching the Presbyterian government, and the peace of this chucrh [sic] and nation. Subscribed, Charles R. Whereunto is annexed, the answer of His Majesties loyall and faithfull subjects to the said desires, die 9. Octob. 1648. Perused and extracted out of the originall copies, and published by authority, for genrall satisfaction of all loyall and true-hearted subjects within the kingdom of England, and principalities of Wales.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87415</idno><idno type="EEBO-CITATION">99864643</idno>
+  <idno type="VID">162301</idno>
+  <idno type="EEBO-PROQUEST">2240909341</idno>
+  
+            <idno type="STC">Wing J1151</idno>
+            <idno type="STC">Thomason E467_2</idno>
+            <idno type="STC">ESTC R205213</idno>
+            <idno type="PROQUEST">99864643</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864643e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87415)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162301)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E467[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull Nevves from the treaty containing the Kings Majesties remonstrance and declaration at Newport in the Isle of Wight, on Sattnrday [sic] last, concerning the citizens of London, who petitioned against the treaty. And His propositions to all His Majesties subjectes within the said city, concerning the sense and resolution of His Majesty touching the Presbyterian government, and the peace of this chucrh [sic] and nation. Subscribed, Charles R. Whereunto is annexed, the answer of His Majesties loyall and faithfull subjects to the said desires, die 9. Octob. 1648. Perused and extracted out of the originall copies, and published by authority, for genrall satisfaction of all loyall and true-hearted subjects within the kingdom of England, and principalities of Wales.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>Octob. 10. London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Presbyterianism --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162301:1"/>
+            <p>JOYFULL NEVVES FROM THE TREATY CONTAINING The Kings Majesties Remonstrance and Declaration at NEWPORT in the Isle of <hi>Wight,</hi> on Satturday last, concerning the Citizens of LONDON, who petitioned against the TREATY.</p>
+            <p>AND His Propositions to all His Majesties Subjectes within the said City, concerning the sense and Resolution of His Majesty touching the Presbyterian Govern<g ref="char:EOLunhyphen"/>ment, and the peace of this Church and Nation.</p>
+            <p>Subscribed, CHARLES R.</p>
+            <p>Whereunto is annexed, The Answer of His Majesties loyall and faithfull subjects to the said desires,</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="notice">
+                        <opener>
+                           <dateline>
+                              <date>Die 9. Octob. 1648.</date>
+                           </dateline>
+                        </opener>
+                        <p>Perused and extracted out of the Originall Copies, and published by authority, for Generall satisfaction of all loyall and true-hearted sub<g ref="char:EOLhyphen"/>jects within the Kingdom of <hi>England,</hi> and Principalities of <hi>Wales.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Octob.</hi> 10. LONDON Printed for <hi>R. W.</hi> 1648.</p>
+            <pb facs="tcp:162301:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162301:2"/>
+            <head>Joyfull newes for <hi>England</hi> from the Treaty at <hi>Neuport.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_declaration">
+                        <opener>
+                           <signed>CHARLES. R</signed>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">I</seg> Conceive that Episcopall Government is most consonant to the Word of God, &amp; of an Apostolicall Instiution, as it ap<g ref="char:EOLhyphen"/>peares by the Scripture, to have been practiced by the Apostles themselves, and by them committed &amp; delivered to perticular persons, as their Substitutes or Successours therein: as for Ordaining of Presbyters &amp; Deacons, gi<g ref="char:EOLhyphen"/>ving rules concerning Christian Discipline, &amp; exercising Consures over Presbyters and others, &amp; hath ever since till these last times been exercise by Bishops in all the Churches of Christ: and therefore I cannot in conscience consent to abolish the said Government.</p>
+                        <p>Notwithstanding this my perswasion, I shall be glad to be informed, if our Saviour and the Apostles did so leave the Church at liberty, as they might totally alter or cang the Government at their pleasure which if you can make appeare to me, then I will confe:sse that one of my great scrupleses is clean taken away, and then there onely re<g ref="char:EOLhyphen"/>maines. That being by my Corsination Oath oblieged to maintain Episcopal Government, as I found it setled to my hand, whether I may consent to the abolishing thereof, untill the same shall be evidenced to mee to be contrary to the Word af God</p>
+                        <closer>
+                           <dateline>Newport, <date>Octob. 2. 1648.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="2" facs="tcp:162301:3"/>
+            <p> The Answer to the said paper, whereas your Maj. doth conceive, That the Episcopall Government, was by the Apostles committed &amp; delivered to particular persons, as their Substitutes or successors therein (as for ordaining presbyters and Deacons, giving rules concerning Chri<g ref="char:EOLhyphen"/>stian Discipline, and exercising censures over Presbyters and others) seeming by the alleadged places of Scripturs to instant in <hi>Tim.</hi> and <hi>Titus,</hi> and the Angels of the Chur<g ref="char:EOLhyphen"/>ches. We humbly answer,</p>
+            <p>1 And first to that of <hi>Tim.</hi> &amp; <hi>Titus,</hi> we grant, that <hi>Tim.</hi> and <hi>Titus</hi> had authority and power of ordaining Presby<g ref="char:EOLhyphen"/>ters &amp; Deacons, and of exercising censures over Presby<g ref="char:EOLhyphen"/>ters and others, though we cannot say they had this power as the Apostles Substituts or Successors in Episcopall, Goverment, nor that they exercised the power they had as being Bishops in the sence of your Maj. but as extraor<g ref="char:EOLhyphen"/>dinary Officers or Evangilists, which Evangilists were an Office in the Church, distinct from pastors and Tea<g ref="char:EOLhyphen"/>chers, <hi>Eph.</hi> 411. And that they were Evangelists, it ap<g ref="char:EOLhyphen"/>peares by their being sent up and downe by the Apostles, or take along with them in company to severall Churches as the necessity &amp; occasion of the Church did require; the one of them being expresly called an Evangelist, 2 <hi>Tim.</hi> 4. 5. And neither of them being any where in Scriptures called Bishop, neither were they fixed to <hi>Ephesus</hi> and <hi>Creet,</hi> as Bishops in the Churches committed to them, but re<g ref="char:EOLhyphen"/>moved from thence to other places, and never, for ought appeares in Scriptures, returned to them againe. And it seemes cleare to us, that neither their abode at <hi>Eph.</hi> and <hi>Creet</hi> was for any long time, nor so intended by the Apo<g ref="char:EOLhyphen"/>stle, for he imployes them there upon occasional busi<g ref="char:EOLhyphen"/>nesse, and expresseth himselfe in such manner 1 <hi>Tim.</hi> 13.
+<pb n="3" facs="tcp:162301:3"/>
+               <hi>Titus</hi> 1. 5. As doth not carry the fixing or constituting of a Bishop in a place as a perpetuall Governour: And it is as manifest, that they were both of them called away frō these places. 2 <hi>Tim</hi> 4. 9. <hi>Titus</hi> 3. 12. so that they may as well be called Bishops of other Citie, or Church where they had any considerable abode, as they are pretended to have been of Ephesus and Creer, as they are called by the Postscrips of these Apostles, the credit of which Post<g ref="char:EOLhyphen"/>scrips we cannot build upon this point.</p>
+            <p n="2">2. To that of the Angels of the Churches, the Minist<g ref="char:EOLhyphen"/>ers of the Churches are called stars &amp; Angels, which De<g ref="char:EOLhyphen"/>nominations are Metaphoricall and a Mistery, <hi>Rev.</hi> 1. 20, The Mistery of the 7 stars Angels in respect of their missi<g ref="char:EOLhyphen"/>on sending; stars in respect of their station &amp; shining. And it seems strang to us, that so many expresse testimonies, of scriptures, and allegoricall denominations or mysteries should be opposed; These Angels being no where called Bishops in vulger acceptation, nor the word Bishop used in any of <hi>Iohns</hi> writings, who cals himself Presbiter, nor nor any m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of superiority of one Presbiter to ano<g ref="char:EOLhyphen"/>ther, but in <hi>Diotrophes</hi> effecting it.</p>
+            <p>And as to that which may be said that epistles are di<g ref="char:EOLhyphen"/>rectly to one: We answer that an number of perso<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s are in the misterious and prophitique writings exprest in singu<g ref="char:EOLhyphen"/>lars.</p>
+            <p>And we humbly conceive that being written in an Epistolary stile these writings are directed as letters to collective or represen<g ref="char:EOLhyphen"/>tative bodyes use to be that is to one but are intended to the body in meeting assembled; which that they were so intended is cleare to us, both because there were in Ephesus B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shops, and Presbiter to whom the Apostle committed the Government of the Chu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch and by divers expressions in these Epistles as <hi>Rev.</hi> 2. 24. So that we cannot consent that any singular person had Majority over the rest.</p>
+            <pb n="4" facs="tcp:162301:4"/>
+            <p> Having thus proved by pregnant places of S<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ipture compared together, that the Apostles themselves did not institute or practice Episcopall Government, nor com<g ref="char:EOLhyphen"/>mit and derive it to particular persons, as their substi<g ref="char:EOLhyphen"/>tutes or successours therein. We shall in further discharg of our duty to, and for, the full satisfaction of your Maj. in this point, briefly declare into what Officers hands, the ordinary and standing Offices of the Church were trans<g ref="char:EOLhyphen"/>mitted and derived by and from the Apostles.</p>
+            <p>The Apostles had no successors in <hi>eundem gradum:</hi> The Apostolicall Office was not derived by succession being instituted by Christ, by extraordinary and speciall com<g ref="char:EOLhyphen"/>mission; but for the ordinary &amp; standing use and service of the Church, their were ordained only 2 orders of offi<g ref="char:EOLhyphen"/>ces, <hi>viz.</hi> Bishops and Deacons, as <hi>Phil.</hi> 1. 1. and of them doth the Apostle give the due Characters of officers: 1. <hi>Tim.</hi> 3. 2. 8. From both which places of scripture we con<g ref="char:EOLhyphen"/>clude with ancient expositors both Greek and Latin, that Bishops are the same with presbiters, and besides Presbi<g ref="char:EOLhyphen"/>ters, there is no mention of any other Order, but that of Deacons of both which Orders there were in the Apo<g ref="char:EOLhyphen"/>stles times, in one City more then one, at in Phillippi and Ephesus.</p>
+            <p>As for the Ages immediatly succeeding the Apostles, we Answer.</p>
+            <p>First, Our faith reacheth no further then the holy scrip<g ref="char:EOLhyphen"/>tures; no humane testimony can beget any more then an humane faith.</p>
+            <p n="2">2. We answer, that it is agreed upon by all learned men, as well such as contend for Episcopacy as others; that the times immediatly succeeding the Apostles are very dark in respect of the history of the Church.</p>
+            <p n="3">
+               <pb n="5" facs="tcp:162301:4"/> 3. That the most unquestionable Record of those times gives clear testimony to our assertion, <hi>viz.</hi> The E<g ref="char:EOLhyphen"/>pistle of <hi>Clement</hi> to the Corinthians, who reciting the or<g ref="char:EOLhyphen"/>der of Church Officers expresly limits them to two Bi<g ref="char:EOLhyphen"/>shops and Deacons; And they whom in one place he cal<g ref="char:EOLhyphen"/>led Bishops, he alwaies afterwards nameth Presbiters.</p>
+            <p n="4">4. We grant that not long after the Apostles times, Bishops in some superiority to Presbiters, are by the wri<g ref="char:EOLhyphen"/>ters of those times reported to be in the Church, but they were set up not as a Divine Institution, but as an ecclesi<g ref="char:EOLhyphen"/>asticall, which is clear by D. <hi>Reynolds</hi> his Epistle to Sir <hi>Francis Knoles</hi> wherein he shewes out of Bish. <hi>Iewell</hi> that <hi>Ambrose, Chrysostome, Ierome, Augustine,</hi> and many more holy Fathers, together with the Apostle <hi>Paul,</hi> agree that by the word of God there is no difference betweene a Presbiter and a Bishop.</p>
+            <p>For a conclusion we adde, that the doctrine which we have herein propounded to your Maj. concerning the or<g ref="char:EOLhyphen"/>der of Bishops and Presbiters, is no other then the doct<g ref="char:EOLhyphen"/>rine published by K. <hi>Henry</hi> the 8. 1543. For all his sub<g ref="char:EOLhyphen"/>jects to receive, allowed both by the Lords spirituall and temporall with the neither house of Parl. of these two or<g ref="char:EOLhyphen"/>ders only (so saith his book) that is to say, Priests and deacons, the scripture maketh expresse mention, and how they were confer'd of by the Apostles by prayer, and im<g ref="char:EOLhyphen"/>position of their hands, by all which it seemes evident that the order of Episcopacy, as distinct from Presbiters is but an Ecclesiasticall Institution, and therefore not un<g ref="char:EOLhyphen"/>alterable.</p>
+            <p>Lastly we answer, The Bishop of these times was one presiding in, and joyning with the Presbitery of his Church, ruling with them, and no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without them, either
+<pb facs="tcp:162301:5"/> created and made by the Presbyters chusing out one a<g ref="char:EOLunhyphen"/>mong themselves, as in <hi>Rome</hi> &amp; <hi>Alexandria,</hi> or chosen by the Church, and confirmed by 3 or more of his neigh<g ref="char:EOLhyphen"/>bours of like dignity, within the same precinct. Lesser Towns and Villages &amp; small Cities untill the Councell of <hi>Sardis</hi> decreed that villages and small Cities should have no Bishops, least the authority of a Bishop should thereby come into contempt, but of one claiming as his due &amp; right to himself alone, as a superiour order or de<g ref="char:EOLhyphen"/>gree, all power about ordination of Presbiters &amp; Dea<g ref="char:EOLhyphen"/>cons, &amp; all jurisdictions either to exercise himself, or de<g ref="char:EOLhyphen"/>ligate to whom he will of the laity or Clergy, as they di<g ref="char:EOLhyphen"/>stinguish according to the practice of these in our times, we read not til the latter &amp; corrupter ages of the church.</p>
+            <p>In answer to that part of your Maj. paper, wherein you inquire whether our Saviour &amp; his Apostles did so leave the Church at liberty, as they might totally alter or chang the Church government at their pleasure, we humbly conceive, that there are substancials belonging to church government, such are appointed by Christ and this Apo<g ref="char:EOLhyphen"/>stles, which are not in the Churches liberty to alter at pleasure: But as for Arch-bishops &amp;c. we hope it will appear unto your Maj. conscience, that they are none of the Church Governours appointed by our Saviour &amp; his Apostles, we beseech your Maj. rather to look to the o<g ref="char:EOLhyphen"/>riginall of them then Succession.</p>
+            <p>Octob. 9. Letters from the Isle of Wight to members of both houses, doth ascertain, That his Maj. (after severall daies debate) hath yelded to the most materiall clauses in the 2 bill concerning Religion, &amp; made some progresse in the rest; It is conceived, that his Maj. will give his Royall assent to this (as also to the succee<g ref="char:EOLhyphen"/>ding Prop.) very suddenly. On Wednesday Octob 7. His Maj. declared his mutuall clemency, &amp; ardent affection, concerning the Citizens of London, acknowledging their forwardnes to a personal treaty, and their sums of money to carry on the same, to be an act of great obedience, and for those that endeavoured to obstruct it, his Maj. doth freely forgive.</p>
+            <closer>
+               <dateline>Newport <date>8 Oct. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
